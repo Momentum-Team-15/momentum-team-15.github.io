@@ -15,7 +15,7 @@ layout: default
 
 ## Zoom Classroom Links
 
-- [Zoom Classroom](https://us02web.zoom.us/j/85012227075?pwd=dENYdXpPbVdQVjNCMDJsRmFDT3c4UT09)
+- [Zoom Classroom](https://us02web.zoom.us/j/82353623090?pwd=eCs3UnhwTlZwNDE2WTM3akx1bVdyQT09)
   - Meeting ID: 850 1222 7075
   - Passcode: 377383
 - [Zoom co-working room, open to all current students](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09) -> This is our virtual shared space, open to all currently enrolled students and job-seeking alums.
@@ -24,9 +24,8 @@ layout: default
 
 ## GitHub
 
-- [Class GitHub organization](https://github.com/momentum-team-X) -- all your assignment repos are located here
-  - [code examples from class](https://github.com/momentum-team-X/examples)
-  - [notes/slides from class](https://github.com/momentum-team-X/notes)
+- [Class GitHub organization](https://github.com/momentum-team-11) -- all your assignment repos are located here
+- [Notes/slides from class](https://github.com/momentum-team-11/notes)
 
 ## General References
 

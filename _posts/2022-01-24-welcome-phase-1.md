@@ -60,5 +60,5 @@ Your link should look similar to this, with a different number at the end: `http
 
 ## 🦉 Code & Notes
 
-- [command line notes](https://github.com/Momentum-Team-10/notes/blob/main/command-line.md)
-- [git notes](https://github.com/Momentum-Team-10/notes/blob/main/git-github.md)
+- [command line notes](https://github.com/Momentum-Team-11/notes/blob/main/command-line.md)
+- [git notes](https://github.com/Momentum-Team-11/notes/blob/main/git-github.md)
