@@ -18,6 +18,8 @@ tags: phase-1 javascript js objects
 - [MDN JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 - [Eloquent JavaScript, chapter 4: Objects and Arrays](https://eloquentjavascript.net/04_data.html)
 - [blog post on JS objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
+- [Prettier Code Formatter](https://prettier.io/) This is information about the extenstion that you can (and should) install in VS Code.
+- [How to format code with Prettier](https://www.digitalocean.com/community/tutorials/code-formatting-with-prettier-in-visual-studio-code)
 
 ### ⭐ EXTRA/TMI
 
@@ -28,4 +30,4 @@ tags: phase-1 javascript js objects
 
 ## 🦉 Code, Notes & Videos
 
-- [notes on js objects](https://github.com/Momentum-Team-10/notes/blob/main/js-objects.md)
+- [notes on js objects](https://github.com/Momentum-Team-11/notes/blob/main/js-objects.md)
