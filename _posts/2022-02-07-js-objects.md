@@ -30,4 +30,5 @@ tags: phase-1 javascript js objects
 
 ## 🦉 Code, Notes & Videos
 
-- [notes on js objects](https://github.com/Momentum-Team-11/notes/blob/main/js-objects.md)
+- [Notes on JS objects](https://github.com/Momentum-Team-11/notes/blob/main/js-objects.md)
+- [Example of a basic working calculator](https://github.com/Momentum-Team-11/example-js-calculator) - This is just one way you can do this!
