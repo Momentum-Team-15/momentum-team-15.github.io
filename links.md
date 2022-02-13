@@ -13,8 +13,6 @@ layout: default
 
 ## Zoom
 
-## Zoom Classroom Links
-
 - [Zoom Classroom](https://us02web.zoom.us/j/82353623090?pwd=eCs3UnhwTlZwNDE2WTM3akx1bVdyQT09)
   - Meeting ID: 850 1222 7075
   - Passcode: 377383
