@@ -6,11 +6,11 @@ layout: default
 
 # Team Nine Technical Presentations
 
-- Phase 1: _Thursday, July 29, 2021_ 2:00 pm
+- Phase 1: _Thursday, Feb 17_ 2:00 pm
 
-Each student will give a short technical talk about a project that they worked on during the previous weeks of the phase.
+Each student will give a short technical talk about a JavaScript project that they worked on during the previous weeks of the phase.
 
-The talk should be 4-5 minutes long. You'll be speaking to fellow students and instructors. You do not need slides or a script. Just be yourself and tell us about the code you wrote.
+The talk should be 4 minutes long. You'll be speaking to fellow students and instructors. You do not need slides or a script. Just be yourself and tell us about the code you wrote.
 
 The goals of this presentation are:
 
@@ -25,7 +25,7 @@ Choose a project that you've done that shows what you learned during the phase.
 - The project should be complete and without errors.
 
   - _Complete_ means that every feature you started to implement is finished. You may not have gotten to absolutely everything specified in the assignment, but the project is working.
-  - _Without errors_ means that nothing in the project is broken.
+  - _Without errors_ means that nothing in the project is broken and there are no errors in the console.
 
 - **For Phase 1**, the project must include JavaScript, so you can choose anything from week 2 on.
 
@@ -36,14 +36,16 @@ Choose a project that you've done that shows what you learned during the phase.
 ### Your task
 
 1. Explain what the project is. Show it briefly from the user perspective first. What does it do? Tell us about it in plain language (1 min or less).
-2. Pick ONE aspect of the project to discuss in more detail (4 min or more) and tell us about the code you wrote to make it work. Some things we'd like to hear you talk about:
+2. Pick ONE aspect of the project to discuss in more detail (3 min or more) and tell us about the code you wrote to make it work. Please focus on one section of the code and walk us through what it does.
 
-- What does this code do?
+  Some things we'd like to hear you talk about:
+
+- What does this specific code do?
 - How does this part of the code work?
 - Describe what you did and why you did it that way.
   - How does this provide functionality to the project? Why is it needed?
   - Did you consider doing it a different way or have to make any adjustments to it along the way?
-- Walk us through any interesting parts of this code. Was there something you figured out how to do here that you are proud of? Anything particularly tricky?
+- Point out any interesting parts of this code. Was there something you figured out how to do here that you are proud of? Anything particularly tricky?
 
 You don’t have to read the code to us, but **you should be able to describe how the code works** in terms that your technically skilled audience understands.
 
@@ -57,7 +59,7 @@ _The tiles are just divs arranged using flexbox and styled with some simple CSS.
 
 _One interesting thing I figured out for this project is how to compare the tiles to see if they match. The value of the tiles are stored in a data attribute, and they are just strings that correspond to the font icon on the tile. If the tiles match, then the pair is removed from the board. To keep the shape of the board, I don’t remove the elements from the DOM but just set a "hidden" attribute on the tiles that are no longer in play. There are some more animations there to make the effect seem smooth._
 
-_The game ends when all the matches have been found. I show the number of tries that it took to find all the matches, and the user sees an option to play again, which will reset the score and redraw the board. The trickiest part of that was...but here’s how I did it…._
+_The game ends when all the matches have been found. I show the number of tries that it took to find all the matches, and the user sees an option to play again, which will reset the score and redraw the board. The trickiest part of that was...and here’s how I did it…._
 
 ## Evaluation
 
