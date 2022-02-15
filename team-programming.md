@@ -1,4 +1,8 @@
-# 🌈 ✨ JavaScript Together 🌈 ✨
+---
+title: Team Programming
+permalink: /team-programming/
+layout: default
+---
 
 ## 👩‍💻 In-class Project: Team Programming Exercise
 
