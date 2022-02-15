@@ -10,10 +10,10 @@ Find your team assignment and the link to your team's repo below.
 
 Emily, Brittany, Joey, Alex
 
-Driver: Emily
-Navigator: Brittany
-Moderator: Joey
-Scout: Alex
+- Driver: Emily
+- Navigator: Brittany
+- Moderator: Joey
+- Scout: Alex
 
 [Team Kraken: clone this repo](https://github.com/Momentum-Team-11/team-kraken-js-movie-app)
 
@@ -23,10 +23,10 @@ Scout: Alex
 
 Paul, Adam, Ted, Jocelyn
 
-Driver: Paul
-Navigator: Adam
-Moderator: Ted
-Scout: Jocelyn
+- Driver: Paul
+- Navigator: Adam
+- Moderator: Ted
+- Scout: Jocelyn
 
 [Team Hydra: clone this repo](https://github.com/Momentum-Team-11/team-hydra-js-movie-app)
 
@@ -38,10 +38,10 @@ Tyler, Kalen, Ryan, Osama
 
 [Team Cyclops: clone this repo](https://github.com/Momentum-Team-11/team-cyclops-js-movie-app)
 
-Driver: Tyler
-Navigator: Kalen
-Ryan: Moderator
-Scout: Osama
+- Driver: Tyler
+- Navigator: Kalen
+- Ryan: Moderator
+- Scout: Osama
 
 ---
 
