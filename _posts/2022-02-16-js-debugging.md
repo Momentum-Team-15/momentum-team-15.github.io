@@ -4,14 +4,14 @@ title: JS Debugging ⛔ 🐞 🐛
 tags: phase-1 javascript js debugging console errors exceptions
 ---
 
-## Today's topics
+## 🗓️ Today's topics
 
 - What's a bug?
 - Debugging tools and techniques
 - Errors and exceptions
 - Handling errors with try...catch
 
-### 🎯 Project
+## 🎯 Project
 
 The Notes App is due tomorrow.
 
@@ -20,7 +20,7 @@ Did you finish your Notes App? 🎉 Kudos! Here's another **OPTIONAL** project t
 [invitation link to the assignment](https://classroom.github.com/a/qpQp7s32)
 
 
-### Links and resources
+## 🔖 Resources
 
 - [Get started with debugging JS in Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/javascript)
 - [How to step through code at a breakpoint](https://developers.google.com/web/tools/chrome-devtools/javascript/reference#stepping)
@@ -32,7 +32,7 @@ Did you finish your Notes App? 🎉 Kudos! Here's another **OPTIONAL** project t
   - [eslint extension for VS Code](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - [StandardJS extension for VS Code](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs)
 
-#### ⭐️ EXTRA/TMI
+### ⭐️ EXTRA/TMI
 
 There's an awesome article about _stacks_, which we encounter in a _stack trace_ in our debugging adventures, in Vaidehi Joshi's BaseCS blog series. It's not necessary to read this to understand debugging, but if you want some more information about terminology and what's really happening, it's great!
 
@@ -42,6 +42,6 @@ Also welcome to a whole new genre of jokes.
 
 - 🤓 Essential Nerd Humor: [Gary Bernhardt's WAT talk](https://www.destroyallsoftware.com/talks/wat)
 
-### 🦉 Code & Notes
+## 🦉 Code & Notes
 
 - [notes on debugging in JS](https://github.com/Momentum-Team-11/notes/blob/main/js-debugging.md)
