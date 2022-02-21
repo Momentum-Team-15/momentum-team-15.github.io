@@ -23,10 +23,10 @@ Welcome to Phase 2, where we'll be learning about back end development. Topics w
 
 ## ✅ TODO today
 
-1. [Make sure your dev environment is set up, using our guide](https://www.notion.so/momentumlearn/Setting-up-your-Python-Development-Environment-91c5006b5a504844ad4e6abf5d209928).
+1. [Make sure your dev environment is set up, using our guide](https://momentumlearn.notion.site/Setting-up-your-Python-Development-Environment-91c5006b5a504844ad4e6abf5d209928).
 2. Complete [this introductory Learning Exercise](https://exercism.org/tracks/python/exercises/guidos-gorgeous-lasagna) on Exercism.io, using the in-browser editor.
 3. Complete the first part of this [Python tutorial](https://www.learnpython.org/), through the 'Functions' section.
-4. [Configure VS Code to use LiveShare](https://code.visualstudio.com/learn/collaboration/live-share). Test it out with a buddy to make sure it is working.
+
 
 ### 🐍 Code Break
 
