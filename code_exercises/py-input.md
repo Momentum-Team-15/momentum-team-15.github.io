@@ -21,7 +21,7 @@ Total: $370.0
 
 ### Exercise 2
 
-Add to the calculation time-and-a-half for hours worked over 40.
+Add to the calculation time-and-a-half for hours worked over 40. (*Note: time-and-a-half rate is the hourly rate * 1.5*)
 
 ```
 Enter hours worked: 55
