@@ -113,5 +113,6 @@ These articles are way more in-depth than you need right now, but they are good 
 
 ## 🦉 Code & Notes
 
-- [Notes](https://github.com/momentum-team-11/notes/blob/main/intro-python.md)
+- [Notes: Intro to Python](https://github.com/momentum-team-11/notes/blob/main/intro-python.md)
+- [Notebooks Prequel: the Force Awakens](https://github.com/Momentum-Team-11/notes/blob/main/python-notebooks-prequel.md)
 - [Intro to Python notebooks](https://github.com/Momentum-Team-11/python-notebooks) (**Notebooks 1-5**)
