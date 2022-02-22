@@ -23,7 +23,7 @@ Files are important as inputs for our programs. Today we'll learn about working 
 
 This project is due on Thursday of this week, but **you should start working on it today**.
 
-[Word Frequency](https://classroom.github.com/a/7jBIV9Tx)
+[Word Frequency](https://classroom.github.com/a/WR2TO0B4)
 
 ## 🔖 Resources
 
