@@ -20,6 +20,12 @@ code {
   color: var(--brand-violet);
 }
 
+pre > code {
+  display: block;
+  padding: 5px;
+  line-height: 1.5;
+}
+
 .brand-blue {
   color: var(--brand-royal-blue);
 }
