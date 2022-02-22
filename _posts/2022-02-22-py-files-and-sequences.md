@@ -17,7 +17,8 @@ Files are important as inputs for our programs. Today we'll learn about working 
 
 ### 🐍 Code Break
 
-[Try working with lists]({% link code_exercises/py-lists.md %})
+- [Try working with strings]({% link code_exercises/py-sequences.md %})
+- [Try working with lists]({% link code_exercises/py-lists.md %})
 
 ## 🎯 Project
 
