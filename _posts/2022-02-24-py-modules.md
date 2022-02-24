@@ -62,6 +62,9 @@ This is due on Monday morning.
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [RealPython: Modules and Packages](https://realpython.com/python-modules-packages/): _We'll get more into packages next week, so just read through the section on modules for now._
 - [RealPython: How to Run Your Python Scripts](https://realpython.com/run-python-scripts/): _Much of the beginning of this article is review of things we've talked through in class, but it is a good synthesis of what we've covered._
+- [Python Docs: Tutorial on Modules](https://docs.python.org/3/tutorial/modules.html#tut-modules)
+- [Python Docs: Module Index](https://docs.python.org/3/py-modindex.html)
+- [Python Docs: `__main__`](https://docs.python.org/3/library/__main__.html#module-__main__)
 
 ## 🦉 Code
 
