@@ -1,5 +1,5 @@
 ---
-title: Python Code Break 5
+title: "Python Code Break: OO"
 layout: default
 ---
 
@@ -18,9 +18,11 @@ Make a class named `User`. Add the following attributes to your class (in the `_
 - `city`
 - `state`
 
-Create two different user instances using your class and save them to variables (something like `user1` and `user2`). When you run your file, it should print out info about each user like the following:
+Create two different user instances using your class and save them to variables (something like `user1` and `user2`).
 
-```
+When you run your file, print out f-strings that display info using attributes from each user instance:
+
+```txt
 Anton lives in Durham, NC.
 Cecil lives in San Francisco, CA.
 ```
