@@ -36,7 +36,8 @@ This is due on **Monday**.
 - [Django's CSRF protection](https://docs.djangoproject.com/en/4.0/ref/csrf/)
   - [What is CSRF?](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 
-
 ## 🦉 Code & Notes
 
 - [Diagram of Django](https://github.com/Momentum-Team-11/notes/blob/main/django-diagram.md)
+- [Django shell notes](https://github.com/Momentum-Team-11/notes/blob/main/django-shell.md)
+- [Django Uptact, with finished tasks](https://github.com/Momentum-Team-11/django-uptact-amygori)
