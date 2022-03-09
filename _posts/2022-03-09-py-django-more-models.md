@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Django Models and Relationships
+title: Freeshelf Wrap Up 🎁
 tags: phase-2 django
 ---
 
