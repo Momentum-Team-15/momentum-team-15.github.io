@@ -23,6 +23,12 @@ Keep on with your end-of-phase project. Today you should have:
 
 ## 🔖 Resources
 
+### Django Views
+
+- [Django Views: the Right Way](https://spookylukey.github.io/django-views-the-right-way/) _This is a very opinionated and detailed article that goes into a lot of detail about function-based views._
+- [Creating Interactive Views in Django](https://hackersandslackers.com/creating-django-views/) _Detailed post really breaking down views._
+
+
 ### Debugging
 
 - [Django Debug Toolbar docs](https://django-debug-toolbar.readthedocs.io/en/latest/)
