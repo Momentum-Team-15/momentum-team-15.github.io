@@ -6,16 +6,16 @@ This is a good opportunity to pause and remember why you set out to learn to cod
 
 For each of these questions, spend no more than 2-3 minutes free writing* an answer. This is for yourself only, not to turn in.
 
- _* Free writing means to write without stopping, whatever you think of, without worrying about grammar or spelling. Just get it out of your brain and onto paper. It's not meant to be read by anyone._
+ _* Free writing means to write without stopping, whatever you think of, without worrying about grammar or spelling. Just get it out of your brain and onto paper (or onto the screen). It's not meant to be read by anyone. What is important is the process of doing it._
 
 ### Career Goals
 
-When you think about getting a job as a developer, what kind of work do you see yourself doing and loving? Is there a particular focus that interests you at this point?
+When you think about getting a job as a developer, what kind of work do you see yourself doing and enjoying? Describe the kind of day you'd like to have. Is there a particular focus that interests you at this point? A particular type of company?
 
 ### Technical Skills
 
-1. What has been your biggest technical success so far? What did you build that you are proud of?
-2. What has been your biggest technical challenge or obstacle? What has been the hardest thing for you to learn so far?
+1. What are your biggest technical successes so far? What have you built that you are proud of?
+2. What have been your biggest technical challenges or obstacles? What has been the hardest thing for you to learn so far?
 3. What are your top 3 technical goals for yourself at this point? What do you want to accomplish in the second half of the program?
 
 ### Start/Stop/Continue
