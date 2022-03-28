@@ -40,4 +40,4 @@ This project is due next Monday. We'll check in on progress at each class meetin
 
 ## 🦉 Code
 
-- [React devs-for-hire](https://github.com/Momentum-Team-11/react-devs-for-hire)
+- [React devs-for-hire](https://github.com/Momentum-Team-11/example-react-devs-for-hire)
