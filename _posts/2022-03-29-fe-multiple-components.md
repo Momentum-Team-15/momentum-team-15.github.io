@@ -23,3 +23,9 @@ If you can get that working, the next step is to show answers and perhaps even m
 - [React Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 - [5 Ways to Implement Conditional Rendering in React](https://blog.bitsrc.io/5-ways-to-implement-conditional-rendering-in-react-64730323b434)
 - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html) -- This is the official doc page. To see it with hooks, watch the video [Lifting State Up with Hooks](https://www.youtube.com/watch?v=HF4o9KAZNxw).
+
+
+## 🦉 Code & Notes
+
+- [React Devs for Hire App](https://github.com/Momentum-Team-11/example-react-devs-for-hire)
+- [Excalidraw React sketches]({% link react-sketches.excalidraw %}) (Downloads excalidraw doc that you can then open at [excalidraw.com](https://excalidraw.com/))
