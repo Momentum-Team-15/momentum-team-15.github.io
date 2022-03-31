@@ -64,8 +64,17 @@ By today or tomorrow your app should respond with json to GET requests for all h
 ## 🔖 Resources
 
 - [Django REST Framework Docs](https://www.django-rest-framework.org/)
+- [Article on DRF Generic Views](https://testdriven.io/blog/drf-views-part-2/)
+- [Classy DRF](https://www.cdrf.co/)
+
+### Serializers
+
 - [Using Different Read and Write Serializers in DRF](https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/)
 - [How to Save Extra Data to a DRF Serializer](https://simpleisbetterthancomplex.com/tutorial/2019/04/07/how-to-save-extra-data-to-a-django-rest-framework-serializer.html)
+- [Effectively using DRF Serializers](https://testdriven.io/blog/drf-serializers/)
+
+### Permissions
+
 - [DRF Permissions](https://testdriven.io/blog/drf-permissions/)
 - [Built-in Permission Classes in DRF](https://testdriven.io/blog/built-in-permission-classes-drf/)
 - [Custom Permissions in DRF](https://testdriven.io/blog/custom-permission-classes-drf/)
