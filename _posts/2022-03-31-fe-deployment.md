@@ -40,3 +40,8 @@ The React Trivia application is due on Monday -- that means it meets at least th
 - [Netlify Docs](https://docs.netlify.com/site-deploys/create-deploys/)
 - [About the Ship It Mindset](https://excid3.com/blog/finishing-is-all-that-matters)
 - [ship it squirrel](https://shipitsquirrel.github.io/)
+- [Optional Chaining Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
+
+## 🦉 Code
+
+- [React Devs for Hire Example](https://github.com/Momentum-Team-11/example-react-devs-for-hire)
