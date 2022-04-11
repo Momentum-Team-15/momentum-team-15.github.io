@@ -42,7 +42,7 @@ _Note: The bullet points listed under requirements do not necessarily correspond
 - A user can star/favorite questions or answers
 - A user can unstar/unfavorited questions or answers
 
-### Social Cards, Front End
+### Requirements for Social Cards, Front End
 
 - Show cards from all users
 - A user can see all their own cards
