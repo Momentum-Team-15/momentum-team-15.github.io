@@ -74,3 +74,10 @@ If you want something more free-form and creative, consider these:
 - [The Power in Agile, a talk by Sarah Mei](https://www.youtube.com/watch?v=YL-6RCTywbc&feature=youtu.be) A critical look at the power dynamics implicit in Agile methods.
 - [Command Line Heroes Podcast](https://www.redhat.com/en/command-line-heroes) Produced by RedHat and hosted by Saron Yitbarek, this is a scripted podcast that tells the story of software from the last 40-ish years or so. Season 1 has an episode of the origin of Agile Development. The whole series is really well done. If you enjoy understanding the history of things like I do, you will like this podcast!
 - [What is Code? by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Read this for the stakeholder perspective -- really long but extremely well written and produced!
+
+## Slides
+
+- [Team slides](https://drive.google.com/file/d/16t3YEgMSu7bYv_cBwqbxDtMLvB4QJ2Sd/view?usp=sharing)
+- [Agile slides](https://drive.google.com/file/d/1ze_BHbuoK-wQaBHzUSneV8yyfJYoxAhH/view?usp=sharing)
+- [Idea generation slides](https://drive.google.com/file/d/1qY2mIO5Qf_PxNuVv-VJoxhjukyj3jl00/view?usp=sharing)
+- [Phase Overview slides](https://drive.google.com/file/d/1ViIy_YJq06u_2PybcizoaOMWKdRIsUD1/view?usp=sharing)
