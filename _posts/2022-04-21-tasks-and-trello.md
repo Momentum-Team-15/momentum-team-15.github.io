@@ -44,5 +44,5 @@ These are **invite links** to join your team's Trello board.
 These boards are from real final projects, so you'll see most of the cards in the "Done" column.
 
 - [Open Mic Trello Board](https://trello.com/b/k2dLx20M/copy-of-open-mic)
-- [Music Teacher App Trello Board](https://trello.com/b/8prRKPoQ/team-scream)
-- [Game Knight Trello Board](https://trello.com/b/1939m0tV/team-maestro-del-juego)
+- [Music Teacher App Trello Board](https://trello.com/b/tqsOYOAl/copy-of-music-teacher)
+- [Game Knight Trello Board](https://trello.com/b/ciWUNSIB/copy-of-game-knight)
