@@ -60,6 +60,7 @@ layout: default
 
 ### Wednesday May 11
 
+- 9:30 am **All teams meet in the classroom** for Presentation Prep Kickoff meeting
 - Working on presentations all day today. ([Presentation Prep Guide]({% link phase-4-demo-guide.md %}))
 - 2:00-3:00 pm **First rehearsal with staff** (*first draft, no video expected*)
 
