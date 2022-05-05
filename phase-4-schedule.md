@@ -66,15 +66,16 @@ layout: default
 
 ### Thursday May 12
 
-- Morning: **Public-speaking coaching for each team with Jessica**
+- Morning: **Public-speaking coaching for each team with Mr. Mitsch**
     - Your team's time TBD
 - 1:00-2:00 pm **Second rehearsal with staff**
     - All teams together
-- 3:30 pm **Final screencast video & blurb due** to Jessica  ([Google Drive link](https://drive.google.com/drive/folders/1YVwm2f6juqblb6Qg24pQxbGO5vDboUw1?usp=sharing))
+    - Please have your screencast done, at least in first draft
+- 6:00 pm **Final screencast video & blurb due** to Jessica  ([Google Drive link](https://drive.google.com/drive/folders/1YVwm2f6juqblb6Qg24pQxbGO5vDboUw1?usp=sharing))
 - **Tech Check & Final Rehearsal** @4:00-4:45 pm (A Zoom link will be provided via email)
     - All teams together
 
 ### Friday May 13
 
 - 12:00-1:00 pm **Presentations** (A Zoom link inviting you to be a panelist for a webinar will be in your email inbox; **you must use the link in your own email** because that link will be **unique to you**)
-- 1:00-2:00 pm **Graduation**  ([Zoom link TBD]())
+- 1:00-2:00 pm **Graduation** [Zoom Link](https://us02web.zoom.us/j/84823418905?pwd=Vmh6bWxGUTlkOVJHRHV6VHBnOFZNZz09)
