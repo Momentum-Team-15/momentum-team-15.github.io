@@ -11,7 +11,7 @@ tags: phase-1 css layout responsive flexbox
 
 ## 🎯 Weekend Project: Dog Adoption
 
-Continue working on your dog adoption website assignment. It's due Monday morning.
+Continue working on your dog adoption website assignment. It's due Wednesday morning.
 
 Today you should begin to tackle layout for your site. **It is not important that you only have 3 dogs per row on your page** but your dogs should be laid out in a grid. If you use flexbox, they should rearrange nicely depending on the width of the browser window.
 

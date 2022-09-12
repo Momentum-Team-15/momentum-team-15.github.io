@@ -26,6 +26,8 @@ This assignment is due on **Wednesday, Sept 15**, at 9:00 am.
 
 ## 🔖 Resources
 
+[Julia Evans Writing Messages Asking for Help](assets/img/julia-evans-message-help.jpg)
+
 ### Getting Started
 
 - [MDN CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
