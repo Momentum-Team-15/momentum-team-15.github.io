@@ -26,7 +26,9 @@ This assignment is due on **Wednesday, Sept 15**, at 9:00 am.
 
 ## 🔖 Resources
 
-[Julia Evans Writing Messages Asking for Help](assets/img/julia-evans-message-help.jpg)
+### Asking for Help in Slack
+- This guidance is not to say, "don't ask questions unless they are perfectly worded." This is to help you get the help you need from your question and to help you develop the skill of asking questions.
+-  ![Julia Evans Writing Messages](assets/img/julia-evans-message-help.jpg)
 
 ### Getting Started
 
