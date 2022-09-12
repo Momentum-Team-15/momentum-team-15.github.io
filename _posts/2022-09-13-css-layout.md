@@ -72,4 +72,4 @@ Before we had flexbox or grid built into CSS, we relied on floats for layout. Yo
 
 - [Notes on CSS Layout](https://github.com/Momentum-Team-15/notes/blob/main/css-layout.md)
 - [Notes on Responsive CSS](https://github.com/Momentum-Team-15/notes/blob/main/css-responsive.md)
-- [CSS Flexbox](https://github.com/Momentum-Team-15/example--css-flexbox)
+- [CSS Flexbox](https://codepen.io/rlconley/pen/vYjXGrZ)
