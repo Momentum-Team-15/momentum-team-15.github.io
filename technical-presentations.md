@@ -10,7 +10,7 @@ layout: default
 
 Each student will give a short technical talk about a JavaScript project that they worked on during the previous weeks of the phase.
 
-The talk should be 4 minutes long. You'll be speaking to fellow students and instructors. You do not need slides or a script. Just be yourself and tell us about the code you wrote.
+The talk should be 4 minutes long. You will record the screen and your talking along with it using a tool like [Loom](https://www.loom.com/download). It will be like a recorded version of the kind of presentation that group spokespeople gave on Monday, walking through code and talking about it.
 
 The goals of this presentation are:
 

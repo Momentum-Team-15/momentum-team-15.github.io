@@ -16,7 +16,8 @@ tags: phase-1 javascript js debugging console errors exceptions
 - The myTunes project is due Thursday morning.
 - Your end-of-phase presentation video is due at the end of the day on Thursday.
 - No class on Thursday, so you can work on your presentation videos.
-- You will find the guidelines for the presentation 
+- You will find the guidelines for the presentation linked on yesterday's entry for this website.
+- 
 
 Did you finish your myTunes App? 🎉 Kudos! Here's another **OPTIONAL** project to try.
 
