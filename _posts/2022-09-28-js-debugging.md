@@ -18,10 +18,10 @@ tags: phase-1 javascript js debugging console errors exceptions
 - Your end-of-phase presentation video is due at the end of the day on Thursday, Sept. 27. Submit the link to this video using this [form](https://forms.gle/j9UuAF1wDZqhNqtB7)
 
 You might not pass the phase if:  
-    Your project does not meet the minimum requirements.
-    Your project does not run without errors.
-    You cannot explain how your code works.
-    You do not turn in a video.
+  Your project does not meet the minimum requirements.
+  Your project does not run without errors.
+  You cannot explain how your code works.
+  You do not turn in a video.
 
 Each of you will record a screencast on either myTunes, Customer Database, or Calculator. The video should be 4-5 minutes long, and no longer. You should choose a piece of the code to walk through and explain using the concepts we covered during Phase 1. You might choose:
 - Code that was challenging to figure out
