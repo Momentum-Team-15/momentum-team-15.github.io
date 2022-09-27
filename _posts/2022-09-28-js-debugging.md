@@ -6,18 +6,42 @@ tags: phase-1 javascript js debugging console errors exceptions
 
 ## 🗓️ Today's topics
 
+- End of phase video requirements
 - What's a bug?
 - Debugging tools and techniques
 - Errors and exceptions
 - Handling errors with try...catch
 
+## 📹 End of Phase Presentation Video
+
+- No class on Thursday, so you can work on your presentation videos.
+- Your end-of-phase presentation video is due at the end of the day on Thursday, Sept. 27. Submit the link to this video using this [form](https://forms.gle/j9UuAF1wDZqhNqtB7)
+
+You might not pass the phase if:
+    Your project does not meet the minimum requirements.
+    Your project does not run without errors.
+    You cannot explain how your code works.
+    You do not turn in a video.
+
+Each of you will record a screencast on either myTunes, Customer Database, or Calculator. The video should be 4-5 minutes long, and no longer. You should choose a piece of the code to walk through and explain using the concepts we covered during Phase 1. You might choose:
+- Code that was challenging to figure out
+- Code that you were excited about
+
+Your target audience is a brand new Momentum student who is just at the beginning of Phase 1. Imagine you are teaching them how to do what you’ve done in this project. Give them the benefit of your experience over these past several weeks.
+
+This video does not have to be polished, scripted, or edited. But your viewer should be able to follow what you’re saying and understand the points you are making.
+
+I suggest using [Loom](https://www.loom.com/download) – it’s very simple to use for screencasts and will let you share your video easily. The free account also limits your videos to 5 minutes, so it should help you with timing.
+
+Loom lets you record a screencast with or without your face showing; either way is fine.
+
+    [Getting Started with Loom](https://support.loom.com/hc/en-us/articles/360015714197-Getting-Started-Video-Tutorials)
+    [Loom Chrome Extension](https://chrome.google.com/webstore/detail/loom-%E2%80%93-free-screen-record/liecbddmkiiihnedobmlmillhodjkdmb)
+
+
 ## 🎯 Project
 
 - The myTunes project is due Thursday morning.
-- Your end-of-phase presentation video is due at the end of the day on Thursday.
-- No class on Thursday, so you can work on your presentation videos.
-- You will find the guidelines for the presentation linked on yesterday's entry for this website.
-- 
 
 Did you finish your myTunes App? 🎉 Kudos! Here's another **OPTIONAL** project to try.
 
