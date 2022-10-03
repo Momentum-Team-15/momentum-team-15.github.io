@@ -70,7 +70,7 @@ When you submit your solution for an exercism, you have the option to **publish*
 
 You can find your profile page by clicking on your user avatar on Exercism and choosing "Public Profile" from the menu.
 
-**To submit your work, paste the URL for your Exercism profile page into [this form](https://forms.gle/PH475ViBdgZfWbG48).**
+**To submit your work, paste the URL for your Exercism profile page into [this form](https://forms.gle/4Rp52f4nPMB97Jmf7).**
 
 ## 🔖 Resources
 
