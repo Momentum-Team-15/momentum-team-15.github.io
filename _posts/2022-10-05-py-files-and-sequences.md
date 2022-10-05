@@ -20,9 +20,10 @@ Files are important as inputs for our programs. Today we'll learn about working 
 
 ## 🎯 Project
 
-We will start this project in class today. It will be due Monday Morning.
-
-[Word Frequency](https://classroom.github.com/a/XtxumWkJ)
+**UPDATE: choose at least one of the following**
+- [Word Frequency](https://classroom.github.com/a/XtxumWkJ)
+- [Code Academy Free Trial](https://www.codecademy.com/learn/learn-python-3)
+- [Intro to Python Tutorial](http://introtopython.org/)
 
 ## 🔖 Resources
 
