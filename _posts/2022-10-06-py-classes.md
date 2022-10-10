@@ -4,7 +4,7 @@ title: Using Classes in Python
 tags: phase-2 python oop classes objects object-oriented
 ---
 
-- This week, you will choose between two different "tracks," which will each have their own approach to the material and different assignments.
+- This week, you will choose between two different "tracks," Fox and Bear, which will each have their own approach to the material and different assignments.
   
 ## This Week: Choose a Track 🦊 Fox (more live code with the instructor, more time together in the classroom, assignments meant to solidify key concepts) or 🐻 Bear (more time in breakout rooms, asynchronous feedback on code, intentionally complex assignments).
 
