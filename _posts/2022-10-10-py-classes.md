@@ -20,6 +20,8 @@ tags: phase-2 python oop classes objects object-oriented
   - For Loops  
   - Dictionaries  
   - Functions  
+**In Class Exercise Wheel of Fortune** 
+- [link](https://classroom.github.com/a/fXcshGhh)
 2. Begin to look at object oriented programming and classes in Python with slides and live code/code along examples.  
 *Homework due Wednesday Morning*:
 [Python Blackjack](https://classroom.github.com/a/KgKJDVmq)
