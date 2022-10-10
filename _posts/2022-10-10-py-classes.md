@@ -23,6 +23,7 @@ tags: phase-2 python oop classes objects object-oriented
 **In Class Exercise Wheel of Fortune** 
 - [link](https://classroom.github.com/a/fXcshGhh)
   
+**Tuesday**
 1. Begin to look at object oriented programming and classes in Python with slides and live code/code along examples.  
 📚 Resources:
 - [Python Notebooks Classes Section](https://github.com/Momentum-Team-15/python-notebooks/blob/main/14%20-%20Classes%20and%20Objects.ipynb)
@@ -30,9 +31,6 @@ tags: phase-2 python oop classes objects object-oriented
 
 *Homework due Wednesday Morning*:
 [Python Blackjack](https://classroom.github.com/a/KgKJDVmq)
-
-**Tuesday**
-1. Continue looking at OO programming and classes in Python with slides, live code, and short code exercises. The goal is to be able to use classes in Django.
 2. Answer questions and address challenges with the Blackjack Assignment. 
 
 **Wednesday**
