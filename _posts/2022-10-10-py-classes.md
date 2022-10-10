@@ -23,6 +23,7 @@ tags: phase-2 python oop classes objects object-oriented
 **In Class Exercise Wheel of Fortune** 
 - [link](https://classroom.github.com/a/fXcshGhh)
   
+NOTE THE UPDATE
 **Tuesday**
 1. Begin to look at object oriented programming and classes in Python with slides and live code/code along examples.  
 📚 Resources:
