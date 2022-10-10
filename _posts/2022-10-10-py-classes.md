@@ -32,7 +32,7 @@ tags: phase-2 python oop classes objects object-oriented
 1. Homework review of Blackjack in small groups.
 2. Virtual environments: what, why, and how? Slides and code along.
 3. Understanding modules and how we use them. Slides and code along.
-4. Introduction to Django: what is it, and why do we need it? How to we [get started with Django](https://www.notion.so/Starting-a-new-Django-project-071f052d07cc4ea6bdf998eb9e4a4a3c?) 
+4. Introduction to Django: what is it, and why do we need it? How to we [get started with Django](https://www.notion.so/Starting-a-new-Django-project-071f052d07cc4ea6bdf998eb9e4a4a3c?)  
 *Homework due Monday Morning*:
 [DjangoGirls Tutorial](https://classroom.github.com/a/Xx585Ph6)
 
