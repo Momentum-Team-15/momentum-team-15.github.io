@@ -30,7 +30,8 @@ NOTE THE UPDATE
 - [Python Notebooks Classes Section](https://github.com/Momentum-Team-15/python-notebooks/blob/main/14%20-%20Classes%20and%20Objects.ipynb)
 - [OO Python Quick Reference Slide](https://github.com/Momentum-Team-15/notes/blob/main/py-oo-programming.md)
 
-*Homework due Wednesday Morning*:
+**Note change**
+*Homework due Thursday Morning*:
 [Python Blackjack](https://classroom.github.com/a/KgKJDVmq)
 2. Answer questions and address challenges with the Blackjack Assignment. 
 
