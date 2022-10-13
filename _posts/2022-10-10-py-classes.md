@@ -39,11 +39,18 @@ NOTE THE UPDATE
 1. Homework review of Blackjack in small groups.
 2. Virtual environments: what, why, and how? Slides and code along.
 3. Understanding modules and how we use them. Slides and code along.
-4. Introduction to Django: what is it, and why do we need it? How to we [get started with Django](https://www.notion.so/Starting-a-new-Django-project-071f052d07cc4ea6bdf998eb9e4a4a3c?)  
-*Homework due Monday Morning*:
-[DjangoGirls Tutorial](https://classroom.github.com/a/Xx585Ph6)
 
 **Thursday**
+1. Introduction to Django: what is it, and why do we need it? How do we [get started with Django](https://www.notion.so/Starting-a-new-Django-project-071f052d07cc4ea6bdf998eb9e4a4a3c?) 
+
+🚨 Important note: the only parts of the “Starting a Django Project” notion instructions that you need for the DjangoGirls tutorial are:
+`pipenv install django`
+`pipenv shell`
+
+The rest of the instructions are there for explanation and for when you don't have a tutorial to follow.
+
+*Homework due Monday Morning*:
+[DjangoGirls Tutorial](https://classroom.github.com/a/Xx585Ph6)
 1. Address existing questions and challenges related to the DjangoGirls Tutorial.
 2. Look at the main parts of a Django App using slides and live code.
    - [Tour of a Django App](https://github.com/Momentum-Team-15/notes/blob/main/django-tour.md)
