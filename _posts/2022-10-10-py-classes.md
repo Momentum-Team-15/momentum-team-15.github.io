@@ -51,8 +51,8 @@ The rest of the instructions are there for explanation and for when you don't ha
 
 *Homework due Monday Morning*:
 [DjangoGirls Tutorial](https://classroom.github.com/a/Xx585Ph6)
-1. Address existing questions and challenges related to the DjangoGirls Tutorial.
-2. Look at the main parts of a Django App using slides and live code.
+2. Address existing questions and challenges related to the DjangoGirls Tutorial.
+3. Look at the main parts of a Django App using slides and live code.
    - [Tour of a Django App](https://github.com/Momentum-Team-15/notes/blob/main/django-tour.md)
    - [Diagram of a Django App](https://github.com/Momentum-Team-15/notes/blob/main/django-diagram.md)
    - [Django Map by Team 13](https://github.com/Momentum-Team-15/notes/blob/main/django-map.png)
