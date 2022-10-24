@@ -1,0 +1,40 @@
+---
+layout: post
+title: Pair Programming With Django
+tags: phase-2 python django
+---
+
+- This week, we will be working in groups of 2 and 3 on a building a Django application using a common
+practice from software development called Pair Programming.
+
+## Teams
+- Team Guitar 🎸: Corey, Taylor, Cameron P.
+- Team Accordion 🪗:  Webster, Angelo, Hatice
+- Team Saxophone 🎷: Ray, Scottie, Chris
+- Team Conga🪘: Aaron, Marcus, Cameron G.
+- Team Violin 🎻: Jon, Andrew, Eli
+- Team Keys 🎹: Issam, Jacob, Tim
+- Team Banjo 🪕: Nicholas, Lucian	
+
+## Pair (or 3) Programming
+- We will be following this [Pair Programming Session Template](https://tuple.app/pair-programming-guide/template). Please read the linked article before proceeding with the assignment. The main steps described in detail in the article are:
+
+  1. Agree on the high-level goal out loud.
+  2. Break the work into a handful of tasks and prioritize them.
+  3. Decide your driver/navigator swapping strategy. Please keep the time that each person is "driving" (typing) as equal as possible within the group. Perhaps set a timer to determine when to switch. 
+  4. Configure git to share credit.
+  5. Eliminate distractions. 
+     - (This looks different for different people. Example: maybe you need to stand up or incorporate a fidget device. If it works for everyone on the team, incorporating background brown noise or low-fi music is fine, too.)
+  6. Work.
+  7. Analyze the session with a mini retro.
+  8. Repeat.
+
+- This cycle will happen at least every day and perhaps more often if the work doesn't go as expected, which it often doesn't.
+
+## 🎯 Assignment 
+    ### Django Freeshelf Pair Version
+    - Instructions to create the repo: 
+      - Only one person on the team will clone the repository. When you decide who this is, they should click this [Assignment Link](https://classroom.github.com/a/SlpTu2Up) and clone as with previous homework. Other team members can click the link in order to access the README.md
+      - Other team members will get access by the owner sharing it using the VS Code extension [Liveshare](https://code.visualstudio.com/learn/collaboration/live-share). Make sure everyone has the Liveshare extension and then the owner of the repo should follow the directions for starting a share session.
+
+
