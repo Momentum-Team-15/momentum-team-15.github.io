@@ -35,7 +35,7 @@ practice from software development called Pair Programming.
 
 ## 🎯 Assignment - Due Thursday, 10/27 at Noon
 ### Django Freeshelf Pair Version
-    - Instructions to create the repo: 
+- Instructions to create the repo: 
       - Only one person on the team will clone the repository. When you decide who this is, they should click this [Assignment Link](https://classroom.github.com/a/SlpTu2Up) and clone as with previous homework. Other team members can click the link in order to access the README.
       - Other team members will get access to the repo by the owner sharing it using the VS Code extension [Liveshare](https://code.visualstudio.com/learn/collaboration/live-share). Make sure everyone has the Liveshare extension installed and then the owner of the repo should follow the directions for starting a share session. Please confirm that everyone is able to type in the code using this tool before moving forward.
 
