@@ -4,7 +4,7 @@ title: Pair Programming With Django
 tags: phase-2 python django
 ---
 
-- This week, we will be working from Monday to Thursday at noon in groups of 2 and 3 on a building a Django application using a common
+- This week, we will be working from Monday morning until Thursday at noon in groups of 2 and 3 on a building a Django application using a common
 practice from software development called Pair Programming.
 - Monday, we will review Django Music together then start working in groups.
 - Thursday afternoon there will be no class session, so that you can prepare your End of Phase Presentations, due Friday at noon.
@@ -24,7 +24,7 @@ practice from software development called Pair Programming.
   1. Agree on the high-level goal out loud.
   2. Break the work into a handful of tasks and prioritize them.
   3. Decide your driver/navigator swapping strategy. Please keep the time that each person is "driving" (typing) as equal as possible within the group. Perhaps set a timer to determine when to switch. 
-  4. Configure git to share credit.
+  4. Configure git to share credit. **Note that you don't need to do this for this assignment because we are using LiveShare.
   5. Eliminate distractions. 
      - (This looks different for different people. Example: maybe you need to stand up or incorporate a fidget device. If it works for everyone on the team, incorporating background brown noise or low-fi music is fine, too.)
   6. Work.
