@@ -8,17 +8,17 @@ For each of these questions, spend no more than 2-3 minutes free writing* an ans
 
  _* Free writing means to write without stopping, whatever you think of, without worrying about grammar or spelling. Just get it out of your brain and onto paper (or onto the screen). It's not meant to be read by anyone. What is important is the process of doing it._
 
-### Career Goals
+### Free Write: Career Goals
 
 When you think about getting a job as a developer, what kind of work do you see yourself doing and enjoying? Describe the kind of day you'd like to have. Is there a particular focus that interests you at this point? A particular type of company?
 
-### Technical Skills
+### Free Write: Technical Skills
 
 1. What are your biggest technical successes so far? What have you built that you are proud of?
 2. What have been your biggest technical challenges or obstacles? What has been the hardest thing for you to learn so far?
 3. What are your top 3 technical goals for yourself at this point? What do you want to accomplish in the second half of the program?
 
-### Start/Stop/Continue
+### Free Write: Start/Stop/Continue
 
 Reflect on things that you have been doing so far in your work at Momentum. Have your choices and actions been serving your goals?
 
@@ -28,4 +28,4 @@ Reflect on things that you have been doing so far in your work at Momentum. Have
 
 ## Sharing
 
-If you have any tips for things that have been helping you, please share in our team Slack! Likewise if you could use some advice on how to deal with something that's been hard for you, let folks know. Your colleagues are often your best resource.
+If you have any tips for things that have been helping you, please share in our team Slack! Likewise, if you could use some advice on how to deal with something that's been hard for you, let folks know. Your colleagues are often your best resource.
