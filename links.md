@@ -10,13 +10,6 @@ layout: default
 - [How we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md)
 - [Slack community guidelines](https://docs.google.com/document/d/1updvgMnO2xAAfP46oW__d3-nhv4hPodW7WvxKWX87JA/edit)
 
-## Zoom
-
-- [Zoom Classroom](https://us02web.zoom.us/j/81924906796?pwd=pYK454vX_N-fZ_5mlpsl90LA1mq5Vu.1)
-- [Zoom co-working room, open to all current students](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09) -> This is our virtual shared space, open to all currently enrolled students and job-seeking alums.
-    - Meeting ID: 705 824 048
-    - Passcode: 573244
-
 ## GitHub
 
 - [Class GitHub organization](https://github.com/momentum-team-15) -- all your assignment repos are located here
@@ -31,7 +24,3 @@ layout: default
 - [Julia Evans, How To Ask Good Questions](https://jvns.ca/blog/good-questions/)
 - [Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck](https://dev.to/rukiaasm/working-smarter-5-steps-to-getting-unstuck-with-rukia-sheikh-mohamed-1932)
 
-<!-- ## Phase 4
-
-- [Schedule]({% link phase-4-schedule.md %})
-- [Presentation Prep Guide]({% link phase-4-demo-guide.md %}) -->
