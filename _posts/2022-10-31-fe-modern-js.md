@@ -27,7 +27,7 @@ _These are required readings, videos, and/or podcasts. Read, watch, or listen, a
 
 ## 🎯 To Do
 
-1. Review the code in [JavaScript You Need to Know for React](https://github.com/Momentum-Team-14/notes/blob/main/js-for-react.md). You'll need to be able to read and use the JS in these notes to work with React effectively. **It would be valuable practice to type out the examples and run them yourself.**
+1. Review the code in [JavaScript You Need to Know for React](https://github.com/Momentum-Team-15/notes/blob/main/js-for-react.md). You'll need to be able to read and use the JS in these notes to work with React effectively. **It would be valuable practice to type out the examples and run them yourself.**
 
 2. Complete **at least two exercises** from this list on [Exercism.io JavaScript Track](https://exercism.org/tracks/javascript). You're encouraged to work together!
 
