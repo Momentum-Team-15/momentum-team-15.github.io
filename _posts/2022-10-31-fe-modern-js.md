@@ -43,7 +43,7 @@ _These are required readings, videos, and/or podcasts. Read, watch, or listen, a
 
 💫 **PRO TIPS**:
   - **If your exercises are locked** you need to switch from Learning Mode to Practice Mode. [Here's a short video showing you how to do that.](https://www.loom.com/share/ad7209af2267427889c98699f0694d11)
-  - When you run the tests, only focus on ONE mtest at a time. Write code that will get that test -- and ONLY that test -- passing. Then, when you have one passing test, look at the next failing test. Again, just that one! Write code to pass this test. This may require you to _rewrite_ the code you just wrote to pass the first test. That's ok. Writing code like this is called Test-Driven Development (TDD) and it's a useful skill to practice. **One test at a time, try to keep previously tests passing, read the test results each time _carefully_, and _be patient_.**
+  - When you run the tests, only focus on ONE test at a time. Write code that will get that test -- and ONLY that test -- passing. Then, when you have one passing test, look at the next failing test. Again, just that one! Write code to pass this test. This may require you to _rewrite_ the code you just wrote to pass the first test. That's ok. Writing code like this is called Test-Driven Development (TDD) and it's a useful skill to practice. **One test at a time, try to keep previously tests passing, read the test results each time _carefully_, and _be patient_.**
   - If you get through two, keep going! More practice is better.
 
 
