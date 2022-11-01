@@ -54,3 +54,7 @@ If you finish this and want to keep going, try one of these other tutorials:
 - [How to Lint and Format Code with ESLint in VS Code](https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code) This tutorial walks you through using ESLint in a more comprehensive way.
 - [React Dev Tools Extension Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Essential. Please install it.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) Working together on a team is easier when everyone has the same standards for their code. Here is one popular style guide.
+
+## 👾 Code
+
+- [Most Minimal React App Ever](https://github.com/Momentum-Team-15/example-most-minimal-react-app)
