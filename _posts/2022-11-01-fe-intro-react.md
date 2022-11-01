@@ -38,7 +38,7 @@ Make sure you have the following set up in your local environment (docs listed b
 
 [Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/). This is a really friendly total beginner tutorial that will show you the most modern way to build React apps.
 
-[This link will create an empty repo on GitHub that you can use to push your tutorial code to.](https://classroom.github.com/a/1nT1IXrI).
+[This link will create an empty repo on GitHub that you can use to push your tutorial code to](https://classroom.github.com/a/1nT1IXrI).
 
 If you finish this and want to keep going, try one of these other tutorials:
 
