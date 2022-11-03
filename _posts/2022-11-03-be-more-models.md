@@ -75,4 +75,6 @@ python manage.py shell_plus --print-sql
 - [Django Model Queries CheatSheet](https://github.com/Momentum-Team-15/notes/blob/main/django-queries.md)
 - [Notes on primary keys and foreign keys](https://github.com/Momentum-Team-15/notes/blob/main/pks-and-fks.md)
 - [Model Relationships Diagram](https://github.com/Momentum-Team-15/notes/blob/main/model-relationships.md)
+- [`shell_plus` from class](https://github.com/Momentum-Team-15/notes/blob/main/shell_plus.md)
+- [Example Django Habit Tracker](https://github.com/Momentum-Team-15/example-habit-tracker)
 - [Example Django Recipes](https://github.com/Momentum-Team-15/example-django-recipes)
