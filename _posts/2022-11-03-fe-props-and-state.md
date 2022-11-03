@@ -54,3 +54,4 @@ We care about the look and feel of the UI, but that doesn't always mean we have 
 ## 👾 Code and Notes
 
 - [JS for React](https://github.com/Momentum-Team-15/notes/blob/main/js-for-react.md)
+- [Example React Dog Adoption](https://github.com/Momentum-Team-15/example-react-dog-adoption)
