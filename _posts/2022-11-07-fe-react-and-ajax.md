@@ -57,6 +57,7 @@ This project is due next Monday.
 ## 👾 Code
 
 - [Example React Dog Adoption](https://github.com/Momentum-Team-15/example-react-dog-adoption)
+- [Example React Dog Adoption: AJAX branch](https://github.com/Momentum-Team-15/example-react-dog-adoption/tree/ajax)
 - [CodePen flexbox example](https://codepen.io/amygori/pen/xxYLZyX)
 - [CodePen grid example](https://codepen.io/amygori/pen/wvyqMXb)
 - [Example React Freeshelf](https://github.com/Momentum-Team-15/example-react-freeshelf)
