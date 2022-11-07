@@ -49,3 +49,4 @@ _These links were posted last week, but you may not have gotten to them._
 ## 👾 Notes
 
 - [REST APIs 101](https://momentumlearn.notion.site/REST-API-Development-101-63eb6a74c0d34c3d8933919fd5e9de77)
+- [Example Habit Tracker](https://github.com/Momentum-Team-15/example-habit-tracker)
