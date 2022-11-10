@@ -67,6 +67,11 @@ By today or tomorrow, your app should respond with JSON data to GET requests for
 - [About the Ship It Mindset](https://excid3.com/blog/finishing-is-all-that-matters)
 - [ship it squirrel](https://shipitsquirrel.github.io/)
 
+### When you have time and are looking for deeper understanding of OOP
+
+- [How Classes and Objects Work in Python](https://earthly.dev/blog/how-cls-obj-work-python/)
+- [RealPython: super()](https://realpython.com/python-super/)
+
 ## 🔖 Resources
 
 - [Django REST Framework Docs](https://www.django-rest-framework.org/)
