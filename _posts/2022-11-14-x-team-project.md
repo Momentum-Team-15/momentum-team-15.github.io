@@ -63,7 +63,7 @@ We've got some mentors joining one of the teams on this project to provide some 
 - Ray
 - Angelo
 - Marcus
-- Cameron
+- Cameron P.
 {:.list--team}
 
 #### Team Hyena
@@ -78,7 +78,7 @@ We've got some mentors joining one of the teams on this project to provide some 
 #### Team Meerkat
 
 - Tim
-- Cameron
+- Cameron G.
 - Chris
 - Rachel ⭐ _mentor_
 - Emily ⭐ _mentor_
