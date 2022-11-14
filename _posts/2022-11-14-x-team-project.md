@@ -6,8 +6,7 @@ tags: phase-3 team fe be git
 
 ## 🗓️ Today's Topics
 
-- Plan for the collaborative project
--
+We will use all day today for plan for the collaborative project. Katie will open breakout rooms at 9:30 and at 2:00 for folks to meet with their teams and work on project planning. You will not need to write code today.
 
 ## 🎯 Collaborative Project
 
