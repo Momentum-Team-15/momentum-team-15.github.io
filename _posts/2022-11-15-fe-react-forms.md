@@ -34,7 +34,7 @@ Review the core concepts of how React works by reading these visual guides.
 
 ### Forms
 
-- [Controlled vs uncontrolled form inputs in React](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
+- [Controlled vs uncontrolled form inputs in React](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/) _This is a good summary of the two options for forms in React but be aware that the code examples use the older class syntax instead of function components with hooks._
 - [Dave Ceddia: React Forms](https://daveceddia.com/react-forms/)
 
 ### Working with Local Storage in React
