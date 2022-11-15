@@ -19,7 +19,7 @@ Work with your team. Today you should be writing code for your **models** referr
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
 - 📺 [Finally Understand Auth in DRF - a Will Vincent talk](https://www.youtube.com/watch?v=pY-oje5b5Qk) -> Will isn't using the Djoser library but he does a great job of reviewing different auth strategies and why you would choose one or the other. Watch this for a better understanding and overview of authentication.
-- 📖 [Julia Evans comic explaining CORS better than MDN does](https://twitter.com/b0rk/status/1162392625057583104?lang=en)
+- 📖 [Julia Evans comic explaining CORS better than MDN does](https://twitter.com/b0rk/status/1445039796804542473?lang=en)
 - 📖 [More Julia Evans on the Same Origin Policy](https://twitter.com/b0rk/status/1155493682885341184)
 - 📖 [A Visual Guide to CORS by Lydia Hallie](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 - 📖 [Simple Is Better Than Complex: How to Implement Token Authentication in DRF](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html) _This does NOT use Djoser, but it's a great walkthrough of some of what Djoser does for you if you would like more detail._
