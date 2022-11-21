@@ -34,7 +34,7 @@ You should have detailed wireframes and a user flow outline, and components for 
 
 ### Organizing your files
 
-This is _very_ subjective, but there are strategies and organizational patterns that you can follow. You should follow the practices and conventions established by the team that you work with at your job.
+This is _very_ subjective, but there are strategies and organizational patterns that you can follow. You should follow the practices and conventions established by the team that you work with.
 
 For starters, here are two good takes on how to organize your files.
 
