@@ -75,8 +75,9 @@ Depending on how you've constructed your API, you might have separate endpoints 
 
 ### Filtering and search
 
+- [Django Docs: Search overview](https://docs.djangoproject.com/en/4.1/topics/db/search/)
 - [DRF - Filtering](https://www.django-rest-framework.org/api-guide/filtering/) -> Pretty useful reference. Includes how to filter your output based on GET parameters, which you will want to do for using search terms.
-- [Django Docs: full-text search & the search lookup](https://docs.djangoproject.com/en/4.0/ref/contrib/postgres/search/#the-search-lookup)
+- [Django Docs: full-text search & the search lookup](https://docs.djangoproject.com/en/4.1/ref/contrib/postgres/search/#the-search-lookup)
 - [Django Docs: SearchVector](https://docs.djangoproject.com/en/4.0/ref/contrib/postgres/search/#searchvector) -> You'll need this if you want to search against more than a single field
 
 ### Pagination
