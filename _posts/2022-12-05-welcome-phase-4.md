@@ -96,3 +96,5 @@ Team assignments will be announced during the afternoon class meeting. These TOD
 
 - [Phase Overview slides](https://drive.google.com/file/d/1wGRob2XiPZngFgyyLVjE9CFF-7GxZ8Pf/view?usp=share_link)
 - [Agile slides](https://drive.google.com/file/d/1ze_BHbuoK-wQaBHzUSneV8yyfJYoxAhH/view?usp=sharing)
+- [Idea slides](https://drive.google.com/file/d/1qY2mIO5Qf_PxNuVv-VJoxhjukyj3jl00/view?usp=sharing)
+- [Team slides](https://drive.google.com/file/d/1SoPoEPyRu5c9Z7Eeg_oS2DEmpL1O94tU/view?usp=share_link)
