@@ -38,7 +38,7 @@ Listen to industry professionals talk about the business of creating software.
 
 ### User Personas
 
-You don't necessarily need to create user personas for your app, but you do need to determine and define who your users are.
+You don't necessarily need to create user personas for your app, but you do need to determine and explicitly define who your users are.
 
 - [Getting the Most Out of Personas](http://www.uxforthemasses.com/personas/)
 - [Creating Personas](https://www.uxbooth.com/articles/creating-personas/)
