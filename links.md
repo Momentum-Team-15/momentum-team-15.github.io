@@ -4,6 +4,12 @@ permalink: /links/
 layout: default
 ---
 
+## Phase 4
+
+- [Detailed schedule]({% link phase-4-schedule.md %})
+- [Guide to final presentations]({% link final-presentations.md %})
+
+
 ## Student Guidelines
 
 - [Student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md)
